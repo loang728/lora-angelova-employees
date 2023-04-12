@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lora-angelova-employees/static/css/main.165153c4.css",
+    "main.js": "/lora-angelova-employees/static/js/main.168bbcdc.js",
+    "index.html": "/lora-angelova-employees/index.html",
+    "main.165153c4.css.map": "/lora-angelova-employees/static/css/main.165153c4.css.map",
+    "main.168bbcdc.js.map": "/lora-angelova-employees/static/js/main.168bbcdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165153c4.css",
+    "static/js/main.168bbcdc.js"
+  ]
+}
